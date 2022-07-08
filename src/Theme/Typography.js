@@ -1,5 +1,5 @@
 export const typography = {
   primary: "Graphik-Medium",
-  primaryBold: "Graphik-Black",
+  primaryBold: "Graphik-Bold",
   primaryThin: "Graphik-Light",
 };

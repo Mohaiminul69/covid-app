@@ -23,7 +23,7 @@ export const presets = {
   thin: THIN,
   h1: {
     ...BASE_BOLD,
-    fontSize: 32,
+    fontSize: 30,
   },
   h2: {
     ...BASE_BOLD,
@@ -31,14 +31,14 @@ export const presets = {
   },
   h3: {
     ...BASE,
-    fontSize: 24,
+    fontSize: 20,
   },
   h4: {
     ...BASE,
-    fontSize: 14,
+    fontSize: 16,
   },
   small: {
     ...THIN,
-    fontSize: 12,
+    fontSize: 14,
   },
 };
